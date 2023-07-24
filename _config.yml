@@ -2,16 +2,16 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exocore
-description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
+title: DrawnOutSmile
+description: seeing what happens next
+url: https://biddy-exocore.netlify.app
 repository: remiliacorp/exocore
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
 ##############################################
 
-jekyll_analytics:        # Uncomment desired analytics tracker and input details
+jekyll_analytics: # Uncomment desired analytics tracker and input details
 #  GoogleAnalytics:          # Uncomment section if you want to track with Google Analytics
 #    id: UA-123-456          # Required - replace with your tracking id
 #    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
@@ -35,7 +35,7 @@ jekyll_analytics:        # Uncomment desired analytics tracker and input details
 # --- EXOCORE CONFIGURATION --- #
 #################################
 
-baseurl: '' 
+baseurl: ""
 source: .
 destination: _site
 background: "red"
@@ -49,22 +49,22 @@ kramdown:
   footnote_backlink: "↲"
 
 last-modified-at:
-  date-format: '%B %d, %Y' # Change the format of the 'last modified' date. 
+  date-format: "%B %d, %Y" # Change the format of the 'last modified' date.
 
 readme_index:
   enabled: true
 
 sass:
-    sass_dir: ./exocore/_sass
+  sass_dir: ./exocore/_sass
 
 layouts_dir: ./exocore/_layouts
 includes_dir: ./exocore/_includes
 plugins_dir: ./exocore/_plugins
 data_dir: ./exocore/data
-      
+
 defaults:
   - scope:
-      path: "" 
+      path: ""
     values:
       layout: "default"
       date: "Jan 1 2000"
@@ -75,32 +75,30 @@ defaults:
   - scope:
       path: ""
       type: "articles"
-    values: 
+    values:
       layout: "article"
   - scope:
       path: ""
       type: "journal"
-    values: 
+    values:
       layout: "journal"
   - scope:
       path: ""
       type: "wiki"
-    values: 
+    values:
       layout: "wiki"
   - scope:
       path: ""
       type: "daily"
-    values: 
+    values:
       layout: "daily"
   - scope:
       path: ""
       type: "scrapbook"
-    values: 
+    values:
       layout: "scrapbook"
 
-
 collections:
-
   wiki:
     output: true
     permalink: /:collection/:slug
@@ -116,23 +114,23 @@ collections:
   daily:
     output: true
     permalink: /:collection/:slug
-  
+
   scrapbook:
     output: true
     permalink: /:collection/:slug
-  
+
 relative_links:
-  enabled:     true
+  enabled: true
   collections: true
-  
+
 titles_from_headings:
-  enabled:     true
+  enabled: true
   strip_title: true
   collections: true
-    
+
 graphviz:
   options: "-Tsvg" # 'dot' command option
-  command: "dot"   # execute this string. specify full path to 'dot' if you need
+  command: "dot" # execute this string. specify full path to 'dot' if you need
 
 # Configure your network graph:
 
@@ -163,19 +161,19 @@ graph:
       y_val:
 
 plugins:
-- jekyll-optional-front-matter
-- jekyll-readme-index
-- jekyll-default-layout
-- jekyll-titles-from-headings
-- jekyll-relative-links
-# - jekyll-github-metadata
-- jekyll-seo-tag
-- html-proofer
-- rubocop
-- w3c_validators
-- jekyll-last-modified-at
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-wikilinks
-- jekyll-last-modified-at
-- jekyll-graph
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  # - jekyll-github-metadata
+  - jekyll-seo-tag
+  - html-proofer
+  - rubocop
+  - w3c_validators
+  - jekyll-last-modified-at
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-wikilinks
+  - jekyll-last-modified-at
+  - jekyll-graph

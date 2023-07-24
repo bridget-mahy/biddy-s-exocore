@@ -1,7 +1,7 @@
 # You can edit this file to change your user details
 
 # The name displayed on your profile card:
-user_name: Biddy
+user_name: drawnoutsmile
 
 # The URL that your name will point to ('/' means home):
 profile_link: /
@@ -10,10 +10,10 @@ profile_link: /
 profile_pic: assets/imgs/pfp.png
 
 # The header that will be displayed on your homepage:
-welcome_header: Welcome to the Exocore
+welcome_header: Biddy's exocore page
 
 # The subtitle to the above header on your homepage:
-welcome_subtitle: A navigable, organised hypertext personal knowledge base
+welcome_subtitle: im learning still, drawing out a smile for you
 
 # Include the Viral Public License at the bottom of your posts (Accepts true/false). Read more about the VPL at https://viralpubliclicense.org.
 include_license: true
