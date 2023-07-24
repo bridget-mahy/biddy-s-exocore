@@ -11,8 +11,12 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_articles/2023-07-24.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -21,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/jade-post.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "13a2e64ed20ebd54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_articles/Writing with Exocore Syntax.md",
+                "file": "_articles/2023-07-24.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Writing with Exocore Syntax.md",
+                "file": "_articles/2023-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Writing with Exocore Syntax.md",
+                "file": "_articles/2023-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Writing with Exocore Syntax.md"
+                "file": "_articles/2023-07-24.md"
               }
             }
           },
@@ -171,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,29 +178,31 @@
   },
   "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "_articles/Using your Exocore.md",
     "_journal/jade-post.md",
-    "_articles/Writing with Exocore Syntax.md",
-    "_articles/2023-07-24.md",
+    "_daily/2023-07-24.md",
+    "Untitled.canvas",
+    "_articles/Exocore Installation Instructions.md",
+    "_articles/Exocore Executive Summary.md",
     "_articles/Configure Exocore for Personal Use.md",
+    "_articles/2023-07-24.md",
+    "_articles/Writing with Exocore Syntax.md",
+    "_articles/Using your Exocore.md",
+    "_articles/Underpinnings of the Exocore.md",
     "assets/imgs/icons/pfp.png",
     "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
     "library/Parascientific_Research_Council_Major_Thoughts.pdf",
     "library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "library/Against Intellectual Property_2.pdf",
-    "_articles/Exocore Executive Summary.md",
     "_daily/2022-05-11.md",
     "_journal/newinternet.md",
     "_journal/korean-ginseng-chicken-soup.md",
     "_journal/exocore-workflow.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
-    "_daily/2023-07-24.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
     "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
     "assets/imgs/bg-yotsuba.gif",
     "_daily/2022-10-23.md"
   ]
