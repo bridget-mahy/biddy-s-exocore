@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2023-07-24.md",
+                "file": "_daily/2023-07-26.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2023-07-24.md",
+                "file": "_daily/2023-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2023-07-24.md",
+                "file": "_daily/2023-07-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2023-07-24.md"
+                "file": "_daily/2023-07-26.md"
               }
             }
           },
@@ -178,9 +178,9 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_daily/2022-05-11.md",
     "_daily/2023-07-24.md",
     "_daily/2023-07-26.md",
+    "_daily/2022-05-11.md",
     "Untitled 1.canvas",
     "_journal/jade-post.md",
     "Untitled.canvas",
